@@ -21,7 +21,7 @@ public class JavaIfElse {
              return;
         }
         if(num%2 == 0 && (num > 20)) {
-            System.out.println(" Not Weird");
+            System.out.println("Not Weird");
             return;
         }
     }
